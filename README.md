@@ -75,14 +75,12 @@ npm install
 
 Edit the `.env` file and update with your database credentials:
 
-```env
 DB_HOST=localhost
 DB_USER=root
-DB_PASSWORD=your_mysql_password
+DB_PASSWORD=Deepika@2006
 DB_NAME=healthcare_db
 PORT=3000
-JWT_SECRET=your_secret_key
-```
+JWT_SECRET=healthcare123
 
 ### 4. Start the Application
 
